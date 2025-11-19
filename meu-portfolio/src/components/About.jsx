@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import minhaFoto from "../assets/foto.jpg"; // coloque sua foto na pasta 'assets' e ajuste o caminho
+import minhaFoto from "../assets/foto-portfolio.jpg";
 
 export default function About() {
   return (
